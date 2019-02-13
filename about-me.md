@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: about-me/
+layout: default
 profile: true
 ---
 
