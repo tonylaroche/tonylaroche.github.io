@@ -1,9 +1,11 @@
 ---
-title: "About"
-permalink: about/
+title: "About Me"
+permalink: about-me/
 profile: true
 ---
-# Hi, I’m Anthony
+
+### Hello, I’m Anthony
+
 I’m an entrepreneur, filmmaker, and cinephile. I’m the Founder of Clay, a startup I’m building to help students easily manage their grades, assignments and classes.
 
 I previously founded [Roche Parker](https://rocheparker.com), a consulting firm which works with businesses and orginizations to improve their internal processes.
