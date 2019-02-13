@@ -4,7 +4,6 @@ date:   2019-02-13 11:18:00
 description: Upcoming changes
 ---
 
-# Rediscovering Myself
 Over the years I’ve changed quite a bit as a person.I distinctively remember in the early days of returning to Trinidad, a close friend once told me that I should “try to integrate”… Unfortunately, I **did** integrate.
 
 Along that path I’ve lost my ways, my deep interest in technology, my leadership abilities and my sense of self worth.
