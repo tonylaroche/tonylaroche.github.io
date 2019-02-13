@@ -1,9 +1,8 @@
 ---
-title: About
+title: "About"
 permalink: about/
 profile: true
 ---
-
 # Hi, I’m Anthony
 I’m an entrepreneur, filmmaker, and cinephile. I’m the Founder of Clay, a startup I’m building to help students easily manage their grades, assignments and classes.
 
@@ -13,7 +12,7 @@ Outside of work, I enjoy sailing, making short films and learning about new conc
 
 I created this blog so that I can share the lessons I’ve learnt over the past couple years exploring the startup world. All of the successes, failures and embarrassments which I believe are worth sharing will be written here.
 
-Cheers,
-– Tony
+Best,
+Anthony
 
 {% include footer.html %}
