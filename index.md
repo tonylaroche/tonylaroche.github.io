@@ -1,6 +1,5 @@
 ---
 profile: true
-layout: default
 ---
 <head>
   <title>Anthony La Roche</title>
