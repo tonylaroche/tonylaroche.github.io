@@ -4,7 +4,7 @@ date:   2018-01-01 12:45:00
 description: What i'm reading
 ---
 
-![students-drawing-journal-3](/Users/major/Documents/GitHub/tonylaroche.github.io/assets/images/students-drawing-journal-3.png)
+![childhood](../assets/images/reading-books.png)
 
 I sometimes get asked which books I believe are crucial in developing an entrepreneurial mindset. Typically, the average person resorts to "entrepreneur/business" books. I've found that a large percentage of these types of books are filled with complete BS, mostly because you can't teach someone to become an entreprenur. Being an entrepreneur is having a collection of several different skills/abilities that you combine to produce a some kind of output.
 
