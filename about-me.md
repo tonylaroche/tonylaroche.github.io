@@ -1,13 +1,13 @@
 ---
 title: "About Me"
 permalink: about-me/
-layout: default
+layout: post
 profile: false
 ---
 
 My name is Anthony. The area I care about the most is advancing human potential, I think a lot about artificial intelligence (as an enabler or human potential), education and human-centered design
 
-These days, I'm building a better classroom through a startup I founded called Clay, building software that creates a foundation for all other learning apps. I also help traditional businesses operate more efficiently by improving their CCDA[^1] environments at Roche Parker. I founded an event discovery and purchase application called Fete which was acquired by 2015.
+These days, I'm building a better classroom through a startup I founded called Clay, building software that creates a foundation for all other learning apps. I also help traditional businesses operate more efficiently by improving their CCDA[^More] environments at Roche Parker. I founded an event discovery and purchase application called Fete which was acquired by 2015.
 
 Outside of work, I'm sailing, running, building side projects and ranting about new concepts.
 
@@ -23,4 +23,4 @@ Anthony
 
 
 
-[^1]: Communication, Collaboration, Distribution and Automation.
+[^More]: communication, collaboration, distribution and automation.
