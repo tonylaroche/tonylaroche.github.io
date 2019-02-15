@@ -15,10 +15,6 @@ I created this blog so I can share the lessons I’ve learnt over the past years
 
 NB: I'll update this page periodically... though no promises.
 
-Best,
-
-Anthony
-
 ------
 
 
