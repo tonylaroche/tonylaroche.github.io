@@ -21,6 +21,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir-Next-LT-Pro-Demi.ttf") format('truetype');
+	src: url('../fonts/Avenir-Next-LT-Pro.ttf') format('truetype');
+}
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
 	font-family: "icons";
@@ -51,8 +56,8 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Lato", Helvetica, Arial, sans-serif;
-	color: #666;
+	font:16px/1 "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #40474e;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
