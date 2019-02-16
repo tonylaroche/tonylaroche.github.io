@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering Myself"
 date: 2019-02-16 00:46:00
-description: A personal letter to my peers.
+description: A personal letter to my friends.
 layout: noshare
 ---
 
