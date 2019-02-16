@@ -2,7 +2,7 @@
 title: "Rediscovering Myself"
 date: 2019-02-16 00:46:00
 description: A personal letter to my peers.
-footer: false
+share: false
 ---
 
 Over the years I’ve changed quite a bit as a person. I distinctively remember in the early days of returning to Trinidad, a close friend once told me that I should “try to adapt”… unfortunately, I did adapt and along that path I’ve lost my ways, my deep interest in technology, my leadership abilities and my sense of self worth. Today, I’m fully separating from my new self. Which is not something you hear often, but I deeply believe this is critical in moving forward.
@@ -13,6 +13,6 @@ Changes will be visible through my interactions, opinions, speech and appearance
 
 I am no longer doing graphic design, software development or film-making as individual work for anyone. If you’re a business owner/entrepreneur seeking software development or automation in your venture, reach out to the engineering team at [Roche Parker](https://www.rocheparker.com/projects/).
 
-Advisory positions are always welcomed and thank you for understanding.
+Thank you for understanding.
 
 **–Anthony La Roche.**
