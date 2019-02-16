@@ -2,7 +2,7 @@
 title: "Rediscovering Myself"
 date: 2019-02-16 00:46:00
 description: A personal letter to my peers.
-share: false
+layout: noshare
 ---
 
 Over the years I’ve changed quite a bit as a person. I distinctively remember in the early days of returning to Trinidad, a close friend once told me that I should “try to adapt”… unfortunately, I did adapt and along that path I’ve lost my ways, my deep interest in technology, my leadership abilities and my sense of self worth. Today, I’m fully separating from my new self. Which is not something you hear often, but I deeply believe this is critical in moving forward.
