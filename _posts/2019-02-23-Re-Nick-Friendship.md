@@ -2,6 +2,7 @@
 title: "Re: Time tells who your true friends really are"
 date: 2019-02-24 00:15:00
 description: Examining Nick Antoine's post.
+published: false
 ---
 
 > **Note:** This is not a scientific study, it is purely anecdotal. There are a few psychological terms mentioned in this post which I encourage you to explore in your own time.
@@ -12,7 +13,7 @@ Putting aside things like sociopathic and narcissistic tendencies (which I will 
 
 The behaviour changes usually follow three stages:
 
-**Stage One:** Approval & Validation
+**Stage One**: Approval & Validation
 
 **Stage Two:** Flashing Lights
 
@@ -86,7 +87,7 @@ Isolating yourself from the rest of the world and surrounding yourself with only
 
 I personally don't accept people back into my circle after I've seen them go through all the stages. It's your choice whether you'll accept them or not. I don't know what comes after that because I've never allowed myself to go through it.
 
----
+///
 
 Those are my thoughts on "fake friends" and while I may have rambled a bit in this post, I hope the message is delivered properly.
 
