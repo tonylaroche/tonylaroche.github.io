@@ -2,7 +2,7 @@
 title: "Re: Time tells who your true friends really are"
 date: 2019-02-24 00:15:00
 description: Examining Nick Antoine's post.
-published: true
+published: false
 ---
 
 > **Note:** This is not a scientific study, it is purely anecdotal. There are a few psychological terms mentioned in this post which I encourage you to explore in your own time.
