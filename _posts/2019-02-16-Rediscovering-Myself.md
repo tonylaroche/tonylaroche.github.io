@@ -3,6 +3,7 @@ title: "Rediscovering Myself"
 date: 2019-02-16 00:46:00
 description: A personal letter to my friends.
 layout: noshare
+published: false
 ---
 
 Over the years I’ve changed quite a bit as a person. I remember when a close friend said "try and adapt to the new enviorment". Surprisingly, I've adapted quite well–but along that path; I’ve lost my true vision, my deep interest in technology and my sense of self worth. From now on, I’m giving up my adapted self–which I believe is rational step in moving forward.
