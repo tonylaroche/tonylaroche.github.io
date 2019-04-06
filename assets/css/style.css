@@ -21,11 +21,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	font-weight: normal;
 	font-style: normal;
 }
-@font-face {
+/*@font-face {
 	font-family: "Avenir";
 	src: url("../fonts/Avenir-Next-LT-Pro-Demi.ttf") format('truetype');
 	src: url('../fonts/Avenir-Next-LT-Pro.ttf') format('truetype');
-}
+} */
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
 	font-family: "icons";
@@ -149,7 +149,7 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-  max-width: 800px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
 }
@@ -196,7 +196,15 @@ ul 	{ margin:0; padding:0; }
 li	{ list-style-type:circle; list-style-position:inside; }
 
 /* Line Height */
-#post-body, p { line-height:1.7; }
+#post-body, p {
+	line-height:25px;
+	font-family: Avenir,Tahoma,sans-serif;
+	font-weight: 200;
+	color: #40474e;
+	font-size: 17px;
+  letter-spacing: .25px;
+  clear: both;
+}
 
 b, strong { font-weight: 500;
   color: #1E2025; }
