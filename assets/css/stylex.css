@@ -28,7 +28,7 @@
     font-weight: 700;
     src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf) format('truetype')
 }
-
+/*
 * html .clearfix {
     zoom: 1
 }
@@ -121,14 +121,6 @@
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden
-}
-
-.truncate {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    word-break: break-all;
-    word-wrap: break-word
 }
 
 .no-flick {
@@ -239,7 +231,7 @@
     font-size: 13px;
     font-size: .8125rem
 }
-
+*/
 .post-content code,
 .post-content pre {
     padding: 2px 4px;
@@ -266,7 +258,7 @@
 body {
     font-family: open sans, helvetica, sans-serif
 }
-
+/*
 a {
     color: #2eb18d
 }
@@ -356,7 +348,7 @@ a.brand:visited:hover {
 .nav li a.active {
     font-weight: 700
 }
-
+*/
 h1,
 h2,
 h3,
@@ -773,7 +765,7 @@ footer {
         padding-top: 120px
     }
 }
-
+/*
 .login {
     -ms-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -852,3 +844,4 @@ footer {
     line-height: 10pt;
     padding: 7px
 }
+*/
