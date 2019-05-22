@@ -1,5 +1,5 @@
 ---
-title: Nothing bad can stay
+title: nothing bad can stay
 description: the impermanent internet
 date: 2019-05-21 00:00:00 -0400
 
