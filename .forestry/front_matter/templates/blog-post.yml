@@ -11,5 +11,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- _posts/2019-05-21-nothing-bad-can-stay.md
