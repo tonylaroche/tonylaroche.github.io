@@ -1,10 +1,10 @@
 ---
-title: Why your beautifully designed product failed
-description: 'hint: it had nothing to do with your design skills.'
-date: 2019-06-01 00:00:00 -0400
+title: Why beautifully designed products fail
+description: 'hint: it has nothing to do with your design skills.'
+date: 2019-06-01T04:00:00.000+00:00
 
 ---
-## Design is important
+### Design is important
 
 When your average person thinks of design, they're imagining the way something looks. People who have some knowledge of the subject would say that design is the way something works.
 
