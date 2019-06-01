@@ -58,4 +58,4 @@ As your product begins to scale, it's important to keep a certain level of authe
 
 ***
 
-p.s. This article was inspired by the words of [Andrew Chen](http://twitter.com/andrewchen/ "Andrew Chen"), you have check out his blog at [andrewchen.co](httpshttps://andrewchen.co/ "andrewchen.co"), he has a pretty awesome newsletter that you should subscribe too :)
+P.S. This article was inspired by the words of [Andrew Chen](http://twitter.com/andrewchen/ "Andrew Chen"), you have check out his blog at [andrewchen.co](httpshttps://andrewchen.co/ "andrewchen.co"), he has a pretty awesome newsletter that you should subscribe too :)
