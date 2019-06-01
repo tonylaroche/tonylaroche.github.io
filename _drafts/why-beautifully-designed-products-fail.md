@@ -66,4 +66,4 @@ As your product begins to scale, it’s vital to keep a certain level of authent
 
 ***
 
-P.S. This article was inspired by the words of [Andrew Chen](http://twitter.com/andrewchen/ "Andrew Chen"), you can check out his blog at [andrewchen.co](httpshttps://andrewchen.co/ "andrewchen.co"), he has a pretty awesome newsletter that's worth subscribing to :)
+> P.S. This article was inspired by the words of [Andrew Chen](http://twitter.com/andrewchen/ "Andrew Chen"), you can check out his blog at [andrewchen.co](httpshttps://andrewchen.co/ "andrewchen.co"), he has a pretty awesome newsletter that's worth subscribing to :)
