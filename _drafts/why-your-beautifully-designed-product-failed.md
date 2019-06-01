@@ -4,6 +4,8 @@ description: 'hint: it has nothing to do with your design skills.'
 date: 2019-06-01T04:00:00.000+00:00
 
 ---
+![](https://media0.giphy.com/media/f1NTdkdbG4XzW/giphy.gif?cid=790b76115cf2458d44494f566bab5717&rid=giphy.gif)
+
 ### Design is important
 
 When your average person thinks of design, they're imagining the way something looks. People who have some knowledge of the subject would say that design is the way something works.
