@@ -62,7 +62,7 @@ When thinking about the idea for your product, also envision a functioning commu
 
 As your product begins to scale, it's vital to keep a certain level of authenticity within your community, whether you choose to remain close-knit or open up. Curating a community of 40, 100, or 500 thousand users is not a simple task, but you have to scale your traffic as a function of your initial community, or you could fall into the trap of having a "beautiful product, but a lost community."
 
-– Anthony
+– Anthony.
 
 ***
 
