@@ -1,20 +1,33 @@
 ---
-label: Blog post
-hide_body: false
+label: Blog Post
+hide_body: true
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: YYY-MM-DD
+    time_format: 
+    display_utc: false
 - name: image
   type: file
   config:
     maxSize: 250
   label: image
-- type: datetime
-  name: date
-  label: date
-pages:
-- _posts/2019-06-01-why-beautifully-designed-products-fail.md
+  default: "/uploads/capHaddock.jpg"
