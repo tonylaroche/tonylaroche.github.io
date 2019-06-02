@@ -2,8 +2,6 @@
 title: Why beautifully designed products fail
 description: Hint: it has nothing to do with your design skills.
 date: 2019-06-01T04:00:00.000+00:00
-image: ../../assets/images/cover.jpg
-
 
 ---
 ![](https://media0.giphy.com/media/f1NTdkdbG4XzW/giphy.gif?cid=790b76115cf2458d44494f566bab5717&rid=giphy.gif)
