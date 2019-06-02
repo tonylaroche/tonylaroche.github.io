@@ -1,4 +1,33 @@
 ---
 label: Blog Post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: YYY-MM-DD
+    time_format: 
+    display_utc: false
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
+  default: "/uploads/capHaddock.jpg"
