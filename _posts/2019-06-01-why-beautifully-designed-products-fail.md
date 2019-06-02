@@ -1,7 +1,8 @@
 ---
 title: Why beautifully designed products fail
 description: 'hint: it has nothing to do with your design skills.'
-date: 2019-06-01 00:00:00 -0400
+date: 2019-06-01T04:00:00.000+00:00
+image: "/uploads/capHaddock.jpg"
 
 ---
 ![](https://media0.giphy.com/media/f1NTdkdbG4XzW/giphy.gif?cid=790b76115cf2458d44494f566bab5717&rid=giphy.gif)
