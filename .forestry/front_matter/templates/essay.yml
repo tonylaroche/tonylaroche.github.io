@@ -11,3 +11,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
+  default: "/uploads/capHaddock.jpg"
