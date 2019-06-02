@@ -19,25 +19,5 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-  <!-- Twitter Cards -->
-  <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@antlaroche">
-<meta name="twitter:title" content="{{ page.title }}">
 
-{% if page.description %}
-  <meta name="twitter:description"
-    content="{{ page.meta_description }}">
-{% else %}
-  <meta name="twitter:description"
-    content="{{ page.content | strip_html | xml_escape
-      | truncate: 200 }}">
-{% endif %}
-
-{% if page.image.thumb %}
-  <meta name="twitter:image"
-    content="{{ site.urlimg }}/{{ page.image.thumb }}">
-{% else %}
-  <meta name="twitter:image"
-    content="{{ site.urlimg }}/assets/images/cover.jpg">
-{% endif %}
 </head>

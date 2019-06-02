@@ -9,6 +9,7 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
+    - jekyll-seo-tag
 paginate: 20
 domain_name: 'tonylaroche.com'
 google_analytics: 'UA-141196774-1'
