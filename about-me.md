@@ -5,9 +5,9 @@ layout: post
 profile: false
 
 ---
-My name is Anthony. \~\~The area I care about the most is advancing human potential, I think a lot about artificial intelligence (as an enabler of human potential), education and space.
+My name is Anthony. ~~The area I care about the most is advancing human potential, I think a lot about artificial intelligence (as an enabler of human potential), education and space.~~
 
-These days, I'm building a better classroom through a startup I founded named Clay.
+\~\~These days, I'm building a better classroom through a startup I founded named Clay.\~\~ 
 
 Outside of work, I'm sailing, reading, and writing about new concepts.
 
