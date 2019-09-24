@@ -5,7 +5,7 @@ layout: post
 profile: false
 
 ---
-I live in Trinidad and I'm working on a new startup.
+I'm working on a new startup.
 
 Email: [tony@tonylaroche.com](mailto:tony@tonylaroche.com)
 
